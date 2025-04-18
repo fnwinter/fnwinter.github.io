@@ -3,7 +3,7 @@ layout: post
 title: "template"
 author: "jungjik.lee"
 categories: article
-tags: []
+tags: [android studio, clean code]
 ---
 
 # 사용하지 않는 파일 삭제
