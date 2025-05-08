@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "template"
+title: "안드로이드 Resource 정리"
 author: "jungjik.lee"
 categories: article
 tags: [android studio, clean code]

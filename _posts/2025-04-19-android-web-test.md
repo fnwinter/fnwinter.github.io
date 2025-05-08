@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "template"
+title: "안드로이드 패키지 테스트"
 author: "jungjik.lee"
 categories: article
 tags: [android, test]
